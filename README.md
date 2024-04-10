@@ -1,0 +1,2 @@
+# Classification-of-Arrhythmia-by-Using-Deep-Learning-with-2-D-ECG-Spectral-Image-Representation
+To develop a deep learning-based system for the classification of arrhythmias using 2-D ECG spectral image representation. By transforming raw ECG signals into frequency-domain spectral images and leveraging convolutional neural networks, the goal is to accurately identify different types of arrhythmias from ECG data. 
